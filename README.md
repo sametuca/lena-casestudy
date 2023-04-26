@@ -1,4 +1,4 @@
 
-# Lena Case Study
-[Frontend Project -> ](https://github.com/sametuca/lena-casestudy-frontend)
+# Frontend projesi farklı bir repo olarak tutulmaktadır.
+[Frontend Projesi](https://github.com/sametuca/lena-casestudy-frontend)
 
