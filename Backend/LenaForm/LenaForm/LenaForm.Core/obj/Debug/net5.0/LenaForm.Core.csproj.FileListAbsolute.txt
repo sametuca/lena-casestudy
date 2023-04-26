@@ -1,0 +1,12 @@
+C:\Users\samet\OneDrive\Masaüstü\LenaForm\LenaForm\LenaForm.Core\bin\Debug\net5.0\LenaForm.Core.deps.json
+C:\Users\samet\OneDrive\Masaüstü\LenaForm\LenaForm\LenaForm.Core\bin\Debug\net5.0\LenaForm.Core.dll
+C:\Users\samet\OneDrive\Masaüstü\LenaForm\LenaForm\LenaForm.Core\bin\Debug\net5.0\LenaForm.Core.pdb
+C:\Users\samet\OneDrive\Masaüstü\LenaForm\LenaForm\LenaForm.Core\obj\Debug\net5.0\LenaForm.Core.csproj.AssemblyReference.cache
+C:\Users\samet\OneDrive\Masaüstü\LenaForm\LenaForm\LenaForm.Core\obj\Debug\net5.0\LenaForm.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\samet\OneDrive\Masaüstü\LenaForm\LenaForm\LenaForm.Core\obj\Debug\net5.0\LenaForm.Core.AssemblyInfoInputs.cache
+C:\Users\samet\OneDrive\Masaüstü\LenaForm\LenaForm\LenaForm.Core\obj\Debug\net5.0\LenaForm.Core.AssemblyInfo.cs
+C:\Users\samet\OneDrive\Masaüstü\LenaForm\LenaForm\LenaForm.Core\obj\Debug\net5.0\LenaForm.Core.csproj.CoreCompileInputs.cache
+C:\Users\samet\OneDrive\Masaüstü\LenaForm\LenaForm\LenaForm.Core\obj\Debug\net5.0\LenaForm.Core.dll
+C:\Users\samet\OneDrive\Masaüstü\LenaForm\LenaForm\LenaForm.Core\obj\Debug\net5.0\refint\LenaForm.Core.dll
+C:\Users\samet\OneDrive\Masaüstü\LenaForm\LenaForm\LenaForm.Core\obj\Debug\net5.0\LenaForm.Core.pdb
+C:\Users\samet\OneDrive\Masaüstü\LenaForm\LenaForm\LenaForm.Core\obj\Debug\net5.0\ref\LenaForm.Core.dll
